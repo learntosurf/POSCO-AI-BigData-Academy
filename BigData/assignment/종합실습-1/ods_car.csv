@@ -1,0 +1,805 @@
+Price,Age,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Seats,Brand,Model
+7071840,9,25000,petrol,automatic,1,5,Maruti,Suzuki Celerio ZXI AMT ABS
+5598540,10,29000,petrol,manual,2,5,Hyundai,i10 magna 1.1
+5647650,13,72000,petrol,manual,3,5,Maruti,Suzuki Swift ZXI
+6138750,11,36000,petrol,manual,1,5,Hyundai,i10 Sportz(O) 1.2 Petrol
+6089640,6,29000,petrol,automatic,3,5,Renault,Kwid CLIMBER 1.0 AMT
+8496030,3,20000,petrol,manual,1,5,Maruti,Suzuki Eeco AC 5 STR
+7399240,11,31000,petrol,manual,1,5,Hyundai,Grand i10 Asta 1.2 Kappa VTVT
+7710270,10,42000,petrol,manual,1,5,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O)
+8496030,9,74000,petrol,manual,2,5,Ford,EcoSport Titanium 1.0L Ecoboost
+6187860,12,43000,petrol,manual,1,5,Maruti,Suzuki Swift LXI
+3093930,10,48000,petrol,manual,1,4,Tata,Nano Twist XT Petrol
+9461860,10,27000,petrol,manual,1,7,Honda,Mobilio V (O) Petrol
+8708840,6,21000,petrol,manual,1,5,Honda,Brio S(O)MT
+7317390,4,33000,petrol,automatic,3,5,Renault,Kwid CLIMBER 1.0 AMT Opt
+4076130,7,34000,petrol,automatic,2,4,Tata,Nano Twist XTA Petrol
+5647650,11,40000,petrol,manual,1,5,Maruti,Suzuki Wagon R 1.0 LXI
+5876830,4,11000,petrol,manual,1,5,Maruti,Suzuki Alto 800 LXI
+5434840,6,14000,petrol,manual,1,5,Maruti,Suzuki Alto 800 LXI
+6253340,9,44000,petrol,manual,1,5,Maruti,Suzuki Wagon R 1.0 VXI
+6302450,8,44000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT
+8790690,7,31000,petrol,manual,3,5,Hyundai,Elite i20 Sportz 1.2
+5058330,8,41000,petrol,manual,2,5,Renault,Kwid RXT
+6367930,13,36000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+9363640,3,46000,petrol+cng,manual,1,5,Maruti,Suzuki Wagon R 1.0 LXI (O) CNG
+8823430,2,18000,petrol,manual,1,5,Renault,Kwid Climber 1.0l SCE Petrol MT
+8152260,4,17000,petrol,manual,1,5,Maruti,Suzuki S-Presso VXI+
+8708840,7,44000,petrol,manual,2,5,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O)
+8381440,2,13000,petrol,manual,1,5,Maruti,Suzuki S-Presso VXI+
+5271140,8,68000,petrol,manual,1,5,Renault,Kwid RXT
+7071840,6,37000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT
+9772890,6,31000,petrol,automatic,1,5,Maruti,Suzuki Ignis Zeta AMT Petrol
+6744440,7,64000,petrol,automatic,1,5,Renault,Kwid CLIMBER 1.0 AMT
+6187860,10,52000,petrol,manual,1,5,Honda,Brio S MT
+4878260,10,63000,petrol,manual,2,5,Hyundai,Eon Magna + 1.0
+6024160,8,54000,petrol,automatic,3,5,Maruti,Suzuki Wagon R 1.0 VXI AMT
+7562940,10,65000,petrol,automatic,1,5,Hyundai,Xcent S AT (O) Petrol
+9461860,7,34000,petrol,manual,1,5,Hyundai,Grand i10 Asta 1.2 Kappa VTVT
+7235540,10,38000,petrol,manual,1,5,Hyundai,Xcent S (O) Petrol
+7628420,8,37000,petrol,manual,3,5,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O)
+5189290,7,32000,petrol,manual,2,5,Datsun,GO T Anniversary Edition
+4452640,12,36000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+4288940,7,37000,petrol,manual,2,5,Datsun,Redi-GO T (O)
+4550860,11,45000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+6236970,7,47000,petrol,manual,1,5,Renault,Kwid RXT 1.0 SCE Special
+7513830,6,33000,petrol,automatic,1,5,Renault,Kwid CLIMBER 1.0 AMT Opt
+5222030,11,74000,petrol,automatic,1,5,Maruti,Suzuki A-Star VXI AT
+6367930,7,51000,petrol,automatic,2,5,Renault,Kwid CLIMBER 1.0 AMT
+5434840,7,39000,petrol,manual,2,5,Maruti,Suzuki Alto K10 VXI
+7530200,5,19000,petrol,manual,1,5,Renault,Kwid 1.0 RXT(O) SCE
+5549430,9,18000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+6515260,8,52000,petrol,manual,2,5,Hyundai,i10 magna 1.1
+6744440,9,45000,petrol,manual,1,5,Hyundai,i10 Sportz 1.1 Petrol
+5647650,9,35000,petrol,manual,1,5,Hyundai,Eon Sportz
+7955820,4,17000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT Opt
+5794980,12,41000,petrol,manual,1,5,Honda,Brio S(O)MT
+6859030,12,44000,petrol,manual,2,5,Hyundai,i20 Asta 1.2
+6744440,8,72000,diesel,manual,3,5,Tata,Tiago Revotorq XZ
+7612050,2,22000,petrol,manual,2,5,Maruti,Suzuki S-Presso VXI+
+5876830,13,74000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+3077560,10,36000,petrol,manual,1,4,Tata,Nano Twist XT Petrol
+6417040,13,32000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+2766530,13,65000,petrol,manual,1,5,Chevrolet,Spark LT 1.0
+8004930,5,15000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT Opt
+9249050,2,16000,petrol,manual,1,5,Maruti,Suzuki Eeco AC(O) 5 STR
+6515260,10,30000,petrol,manual,1,5,Hyundai,i10 Sportz 1.1 Petrol
+7939450,8,39000,petrol,manual,1,5,Tata,Zest XT Petrol
+5385730,9,28000,petrol,manual,1,5,Hyundai,Eon Magna
+8872540,2,31000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT SCE
+6466150,7,55000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT SCE
+8496030,2,9000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI Plus
+9150830,8,52000,petrol,automatic,1,5,Maruti,Suzuki Swift Dzire VXI AT
+4878260,10,46000,petrol,manual,1,5,Maruti,Suzuki Alto 800 VXI
+9641930,3,24000,petrol+cng,manual,1,5,Maruti,Suzuki Wagon R 1.0 LXI (O) CNG
+5696760,9,66000,petrol,automatic,1,5,Maruti,Suzuki Alto K10 VXI AMT
+7186430,7,71000,petrol,automatic,2,5,Maruti,Suzuki Celerio ZXI AMT
+4239830,11,75000,petrol,manual,2,5,Hyundai,Eon Era +
+2668310,9,59000,petrol,manual,2,4,Tata,Nano Twist XT Petrol
+5434840,12,49000,petrol,automatic,3,5,Honda,Brio S(O) AT
+4730930,13,40000,petrol,manual,1,5,Hyundai,i10 Era Petrol
+4256200,12,38000,petrol,manual,1,5,Hyundai,Eon Era
+5074700,11,57000,petrol,manual,1,5,Maruti,Suzuki Estilo LXI
+5107440,8,47000,petrol,manual,2,5,Renault,Kwid RXT
+6089640,6,7000,petrol,manual,1,5,Maruti,Suzuki Alto 800 VXI (O)
+9772890,9,74000,petrol,manual,1,5,Ford,EcoSport Titanium 1.0L Eco Boost
+8152260,3,23000,petrol,manual,1,5,Renault,Kwid CLIMBER 1.0 Opt
+6859030,5,20000,petrol,automatic,2,5,Renault,Kwid 1.0 RXT AMT Opt
+5549430,8,56000,petrol,manual,1,5,Renault,Kwid RXT Opt
+7513830,9,54000,petrol,manual,1,5,Honda,Amaze 1.2 S i-VTEC
+5876830,7,41000,petrol,automatic,2,5,Maruti,Suzuki Alto K10 VXI AMT (O)
+5925940,8,20000,petrol,manual,1,5,Renault,Kwid RXT
+5156550,9,52000,petrol,manual,1,5,Renault,Kwid RXT
+5303880,8,37000,petrol,manual,1,5,Renault,Kwid RXT
+5483950,9,42000,petrol,automatic,2,5,Maruti,Suzuki Alto K10 VXI AMT
+4387160,12,63000,diesel,manual,1,5,Ford,Figo Duratorq Diesel EXI 1.4
+9232680,5,25000,diesel,manual,1,5,Hyundai,Grand i10 Magna 1.2 CRDi
+4747300,13,44000,petrol,manual,2,5,Maruti,Suzuki Wagon R 1.0 VXI
+6859030,8,73000,diesel,manual,2,5,Tata,Tiago Revotorq XT
+8823430,8,47000,petrol,manual,3,5,Maruti,Suzuki Ciaz ZXI
+5189290,7,50000,petrol,manual,2,5,Datsun,GO T
+5189290,9,41000,petrol,manual,1,5,Hyundai,Eon Sportz
+8152260,8,72000,petrol,manual,1,5,Hyundai,Xcent SX Petrol
+3093930,9,32000,petrol,manual,2,4,Tata,Nano Twist XT Petrol
+7333760,8,55000,petrol,manual,1,5,Maruti,Suzuki Wagon R 1.0 VXI AMT
+9461860,7,39000,petrol,automatic,1,5,Maruti,Suzuki Dzire VXI AMT
+7775750,5,28000,petrol,automatic,1,5,Renault,Kwid CLIMBER 1.0 AMT
+8954390,6,28000,petrol,manual,1,5,Hyundai,Grand i10 Magna 1.2 Kappa VTVT
+7399240,7,17000,petrol,manual,1,6,Mahindra,KUV100 K6 6 STR
+5516690,7,47000,petrol,manual,2,5,Renault,Kwid 1.0 RXT
+8954390,6,28000,petrol,manual,1,5,Hyundai,Grand i10 Magna 1.2 Kappa VTVT
+7399240,7,17000,petrol,manual,1,6,Mahindra,KUV100 K6 6 STR
+5516690,7,47000,petrol,manual,2,5,Renault,Kwid 1.0 RXT
+5303880,8,65000,petrol,manual,1,5,Renault,Kwid RXT
+6695330,3,17000,petrol,manual,1,5,Maruti,Suzuki Alto 800 VXI
+4534490,11,29000,petrol,manual,1,5,Maruti,Suzuki Alto 800 LXI
+3863320,13,39000,petrol,manual,2,5,Maruti,Suzuki Estilo LXI
+4010650,12,37000,petrol,manual,1,5,Maruti,Suzuki Alto LXI
+5794980,9,69000,petrol,manual,2,5,Honda,Brio S MT
+4452640,12,48000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+5631280,3,35000,petrol,manual,1,5,Maruti,Suzuki Alto 800 LXI
+6744440,8,53000,petrol,automatic,3,5,Maruti,Suzuki Celerio ZXI AMT
+5222030,12,62000,petrol,manual,1,5,Hyundai,i10 Magna 1.2 Petrol
+5418470,9,33000,petrol,manual,1,5,Renault,Kwid RXT
+5876830,7,41000,petrol,manual,1,5,Hyundai,Eon Magna +
+5451210,7,59000,petrol,manual,1,5,Renault,Kwid RXT
+9363640,9,61000,diesel,automatic,1,5,Tata,Zest XTA Diesel
+5287510,8,65000,petrol,manual,1,5,Renault,Kwid RXT
+9461860,8,65000,petrol,manual,1,5,Skoda,Rapid 1.6 MPI Style Plus
+6744440,6,23000,petrol,automatic,1,5,Renault,Kwid 1.0 RXL AMT
+9756520,1,39000,petrol,manual,1,5,Maruti,Suzuki Wagon R 1.0 VXI
+4730930,10,32000,petrol,manual,1,5,Datsun,GO T
+5762240,8,39000,petrol,manual,1,5,Renault,Kwid 1.0 RXT
+7677530,7,50000,petrol+cng,manual,2,5,Honda,Brio VX Petrol+cng(outside fitted)
+6809920,9,57000,petrol,automatic,1,5,Maruti,Suzuki Celerio VXI AMT
+6449780,10,34000,petrol,manual,1,5,Hyundai,i10 Sportz 1.1 Petrol
+9412750,5,22000,petrol,automatic,1,5,Maruti,Suzuki Celerio ZXI (O) AMT
+4157980,13,60000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+4992850,7,60000,petrol,manual,2,5,Datsun,GO T
+3912430,12,61000,petrol,manual,3,5,Hyundai,Eon Magna +
+8987130,9,49000,diesel,manual,3,5,Hyundai,Elite i20 Sportz 1.4 CRDI
+3175780,11,43000,petrol,manual,2,5,Chevrolet,Spark LT 1.0
+7350130,9,61000,petrol,manual,1,5,Tata,Zest XT Petrol
+6744440,13,54000,petrol,manual,1,5,Toyota,Etios VX
+6024160,7,32000,petrol,manual,1,5,Hyundai,Eon Magna
+6515260,8,33000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT
+5222030,3,24000,petrol,manual,1,5,Renault,Kwid STD
+6204230,7,28000,petrol,manual,1,5,Renault,Kwid 1.0 RXT
+6580740,6,20000,petrol,manual,1,5,Renault,Kwid RXT 1.0 SCE Special
+6335190,4,13000,petrol,manual,1,5,Maruti,Suzuki Alto 800 VXI
+5647650,7,51000,petrol,manual,1,5,Renault,Kwid RXL
+7022730,6,42000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT
+9380010,5,22000,petrol,automatic,1,5,Maruti,Suzuki Celerio ZXI AMT
+8152260,10,64000,petrol,automatic,1,5,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT
+5713130,5,14000,petrol,manual,1,5,Maruti,Suzuki Alto 800 LXI
+7055470,11,73000,petrol,manual,1,5,Maruti,Suzuki Swift Dzire VXI
+7284650,6,26000,petrol,manual,1,6,Mahindra,KUV100 NXT K2 6 STR
+2651940,10,31000,petrol,manual,3,4,Tata,Nano Twist XT Petrol
+6138750,5,53000,petrol,manual,3,6,Mahindra,KUV100 NXT K2 6 STR
+8397810,9,73000,diesel,automatic,1,5,Tata,Zest XTA Diesel
+5647650,13,53000,petrol,manual,1,5,Toyota,Etios Liva G
+5107440,8,26000,petrol,manual,1,5,Renault,Kwid RXL
+7530200,10,71000,petrol,automatic,2,5,Honda,Amaze 1.2 VX AT i-VTEC
+7824860,9,70000,petrol,automatic,3,5,Maruti,Suzuki Baleno Delta AT Petrol
+6793550,9,48000,petrol,automatic,2,5,Maruti,Suzuki Celerio ZXI AMT
+5336620,8,62000,petrol,manual,1,5,Renault,Kwid RXT
+5385730,9,63000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+7071840,8,38000,petrol,automatic,1,5,Maruti,Suzuki Celerio VXI AMT
+4878260,11,31000,petrol,manual,1,5,Hyundai,Eon Magna +
+5222030,8,67000,petrol,manual,1,5,Renault,Kwid RXL
+4550860,10,42000,petrol,manual,1,5,Hyundai,Eon D-Lite+
+9789260,8,70000,petrol,manual,1,5,Hyundai,Elite i20 Sportz 1.2
+7939450,7,32000,petrol,manual,2,5,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT
+6204230,4,22000,petrol,manual,1,5,Maruti,Suzuki Alto 800 VXI
+5254770,6,33000,petrol,manual,1,5,Datsun,Redi-GO S 1.0
+6417040,6,10000,petrol,manual,1,5,Hyundai,Eon Magna +
+2946600,10,63000,petrol,manual,1,4,Tata,Nano Twist XT Petrol
+4288940,9,36000,petrol,manual,3,5,Maruti,Suzuki Alto 800 LXI
+9772890,9,31000,petrol,manual,1,5,Hyundai,Elite i20 Asta 1.2
+8496030,7,54000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+9216310,9,71000,diesel,manual,2,5,Volkswagen,Polo Highline 1.5 (D)
+5271140,10,41000,petrol,manual,2,5,Maruti,Suzuki Wagon R 1.0 VXI
+7399240,8,65000,diesel,manual,1,5,Tata,Tiago Revotorq XT
+5794980,11,71000,petrol,manual,2,5,Honda,Amaze 1.2L EX
+5713130,8,39000,petrol,manual,1,5,Renault,Kwid RXT
+5336620,8,67000,petrol,manual,1,5,Renault,Kwid RXT
+9789260,8,28000,petrol,manual,1,5,Hyundai,Elite i20 Sportz 1.2
+6793550,7,23000,petrol,manual,1,6,Mahindra,KUV100 K2 6 STR
+7268280,5,40000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT SCE
+6417040,7,50000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT
+6989990,6,63000,petrol,manual,1,5,Hyundai,New Santro 1.1 Magna
+6531630,7,40000,petrol,automatic,1,5,Maruti,Suzuki Alto K10 VXI AMT (O)
+5533060,8,37000,petrol,manual,1,5,Renault,Kwid RXT
+5729500,8,18000,petrol,manual,1,5,Hyundai,Eon Magna +
+5385730,8,37000,petrol,manual,1,5,Renault,Kwid RXL
+6466150,5,32000,petrol,manual,1,5,Volkswagen,Polo Highline 1.5 (D)
+6744440,9,31000,petrol,manual,1,5,Hyundai,i10 magna 1.1
+4043390,6,64000,petrol,manual,2,5,Datsun,Redi-GO T(O) 1.0
+4894630,10,49000,petrol,manual,2,5,Maruti,Suzuki Wagon R 1.0 VXI
+7513830,6,50000,petrol,automatic,3,5,Maruti,Suzuki Celerio ZXI AMT
+2930230,10,46000,petrol,manual,2,4,Tata,Nano Twist XT Petrol
+8807060,7,54000,diesel,manual,3,5,Nissan,Sunny XL Diesel
+5320250,7,31000,petrol,manual,3,5,Renault,Kwid 1.0 RXT
+4665450,11,67000,petrol,manual,2,5,Hyundai,i10 Era Petrol
+7022730,4,16000,petrol,manual,1,5,Renault,Kwid RXT
+9772890,5,19000,petrol,manual,1,5,Hyundai,Grand i10 Magna 1.2 Kappa VTVT
+9461860,8,14000,petrol,automatic,1,5,Maruti,Suzuki Swift Dzire VXI AT
+5876830,8,20000,petrol,manual,1,5,Renault,Kwid RXT
+6842660,8,31000,petrol,manual,1,5,Maruti,Suzuki Wagon R 1.0 VXI
+7562940,8,20000,petrol,automatic,1,5,Maruti,Suzuki Wagon R 1.0 VXI (O) AMT
+4763670,9,74000,petrol,manual,1,5,Renault,Kwid RXT
+6040530,8,61000,petrol,automatic,1,5,Maruti,Suzuki Alto K10 VXI AMT
+8119520,7,46000,petrol,automatic,1,5,Maruti,Suzuki Celerio VXI AMT
+5172920,13,41000,petrol,manual,1,5,Maruti,Suzuki Swift Dzire VXI 1.2
+6367930,5,40000,petrol,manual,1,5,Datsun,GO T (O)
+3241260,13,60000,petrol,manual,3,5,Maruti,Suzuki Alto K10 LXI
+9363640,7,43000,petrol,manual,2,5,Hyundai,Elite i20 Sportz 1.2
+5352990,7,41000,petrol,manual,1,5,Renault,Kwid RXL
+5565800,12,65000,petrol,automatic,1,5,Hyundai,i10 Sportz AT Petrol
+4239830,8,50000,petrol,manual,3,5,Hyundai,Eon Era +
+8004930,10,62000,diesel,manual,1,5,Maruti,Suzuki Swift VDi
+7546570,10,62000,petrol,automatic,1,5,Maruti,Suzuki Swift Dzire VXI AT
+8905280,6,53000,diesel,manual,1,5,Maruti,Suzuki Baleno Sigma Diesel
+7104580,7,60000,diesel,manual,3,5,Tata,Tiago Revotorq XZ
+3797840,8,23000,petrol,automatic,2,4,Tata,Nano Twist XTA Petrol
+8708840,6,21000,petrol,manual,1,5,Honda,Brio S(O)MT
+4076130,12,30000,petrol,manual,1,5,Chevrolet,Beat LT Petrol
+5107440,9,58000,petrol,manual,1,5,Renault,Duster RxE Petrol
+5009220,9,56000,petrol,manual,2,5,Maruti,Suzuki Alto K10 VXI
+4649080,10,48000,petrol,manual,1,5,Renault,Pulse RxL Petrol
+9641930,8,66000,diesel,manual,2,7,Mahindra,TUV300 T8 mHAWK100
+8987130,6,32000,petrol,manual,1,5,Ford,Figo Aspire Titanium Plus 1.2 Ti-VCT
+9756520,3,17000,petrol,manual,1,5,Renault,Kiger RXL MT
+5222030,13,73000,petrol,manual,2,5,Hyundai,i20 Asta 1.2
+4878260,8,28000,petrol,manual,1,5,Datsun,Go Plus T
+8987130,5,46000,petrol,manual,1,5,Ford,Figo Aspire Titanium 1.2 Ti-VCT
+9641930,8,67000,diesel,manual,1,5,Honda,Jazz VX Diesel
+4780040,13,34000,petrol,manual,1,5,Maruti,Suzuki Eeco 5 STR WITH A/C+HTR
+7022730,12,23000,petrol,manual,1,5,Volkswagen,Polo Comfortline 1.2L (P)
+5549430,13,46000,petrol,manual,2,5,Toyota,Etios G
+3224890,9,63000,petrol,automatic,3,4,Tata,Nano GenX XTA
+5483950,7,24000,petrol,automatic,3,5,Maruti,Suzuki Alto K10 VXI AMT (O)
+5369360,9,75000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+5582170,7,69000,petrol,manual,3,5,Tata,Tiago Revotron XM
+9363640,4,8000,petrol,manual,1,5,Maruti,Suzuki Swift LXI
+8152260,10,70000,petrol,manual,2,5,Maruti,Suzuki Ciaz ZXI
+6024160,7,22000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+7448350,7,53000,petrol,manual,2,5,Tata,Tigor Revotron XT
+8021300,7,24000,petrol,manual,1,5,Honda,Brio S MT
+8987130,7,24000,petrol,automatic,1,5,Tata,Tiago Revotron XZA AMT
+5434840,8,36000,petrol,manual,1,5,Renault,Kwid RXT
+4878260,11,42000,petrol,manual,1,5,Ford,Figo Duratec Petrol ZXI 1.2
+8299590,5,44000,petrol,automatic,1,5,Volkswagen,Polo Comfortline 1.2L (P)
+7726640,5,32000,petrol,manual,1,5,Maruti,Suzuki Eeco AC 5 STR
+4076130,7,34000,petrol,automatic,2,4,Tata,Nano Twist XTA Petrol
+6302450,10,66000,petrol,manual,2,5,Hyundai,Grand i10 Magna 1.2 Kappa VTVT
+6629850,8,45000,petrol,manual,2,5,Ford,Figo Titanium 1.2 Ti-VCT
+3192150,13,52000,petrol,manual,3,5,Chevrolet,Beat LT Petrol
+4469010,12,26000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+4894630,8,38000,petrol,manual,2,5,Renault,Kwid RXT 1.0 SCE Special (O)
+7824860,11,63000,petrol,manual,2,5,Hyundai,Verna Fluidic 1.6 VTVT SX
+7595680,8,29000,petrol,automatic,3,5,Honda,Brio VX AT
+4878260,8,36000,petrol,manual,3,5,Renault,Kwid 1.0 RXT
+4043390,8,33000,petrol,manual,2,5,Datsun,Redi-GO T (O)
+7890340,6,51000,petrol,manual,1,5,Hyundai,Xcent S Petrol
+6826290,6,50000,petrol,automatic,1,5,Maruti,Suzuki Alto K10 VXI AMT (O)
+9298160,7,30000,petrol,automatic,2,5,Hyundai,Grand i10 Sportz (O) AT 1.2 Kappa VTVT
+4387160,10,65000,petrol,manual,1,5,Hyundai,Eon Era +
+9134460,8,52000,petrol,manual,1,5,Honda,Jazz VX
+6498890,11,48000,petrol,automatic,1,5,Hyundai,i10 Sportz AT Petrol
+6809920,8,41000,petrol,manual,1,5,Maruti,Suzuki Wagon R 1.0 VXI
+8987130,9,64000,petrol,manual,2,5,Maruti,Suzuki Ciaz ZXI
+7350130,8,26000,petrol,manual,1,5,Mahindra,KUV100 K8 5 STR
+8725210,6,49000,petrol,manual,1,5,Tata,Tigor Revotron XZ
+6367930,10,56000,petrol,manual,1,5,Tata,Bolt XT Petrol
+6515260,10,47000,petrol,automatic,1,5,Maruti,Suzuki Celerio VXI AMT
+4550860,12,46000,petrol,manual,3,5,Honda,Brio S MT
+5222030,8,26000,petrol,manual,1,5,Hyundai,Eon Era +
+9298160,5,33000,petrol,manual,1,5,Tata,Tiago XZ Plus Dual Tone Roof
+8987130,8,56000,diesel,manual,2,5,Ford,EcoSport Trend 1.5L TDCi
+6793550,9,70000,petrol,manual,2,5,Maruti,Suzuki Swift VXI
+7644790,11,52000,petrol,manual,2,5,Ford,EcoSport Titanium 1.0L Ecoboost
+4550860,11,40000,petrol,manual,2,5,Hyundai,Eon Magna +
+6400670,13,67000,petrol,manual,2,5,Hyundai,Verna Fluidic 1.6 VTVT SX
+9789260,8,63000,petrol,manual,1,5,Maruti,Suzuki Baleno Alpha Petrol
+5434840,9,46000,petrol,manual,1,5,Hyundai,Eon Sportz
+9461860,5,28000,petrol,manual,1,5,Ford,Figo Titanium Petrol
+5778610,8,17000,petrol,manual,1,5,Hyundai,Eon Magna +
+5549430,11,37000,petrol,manual,1,5,Hyundai,i10 Era Petrol
+6335190,7,26000,petrol,automatic,1,5,Renault,Kwid 1.0 RXL AMT
+6777180,8,22000,petrol,manual,1,5,Mahindra,KUV100 K4+ 5 STR
+8496030,7,48000,petrol,automatic,1,5,Tata,Tiago Revotron XZA AMT
+5975050,8,33000,petrol,automatic,2,5,Volkswagen,Polo Comfortline 1.2L (P)
+5925940,8,31000,petrol,automatic,2,5,Maruti,Suzuki Alto K10 VXI AMT
+8905280,9,58000,diesel,manual,1,5,Ford,EcoSport Trend 1.5L TDCi
+6106010,8,56000,petrol,automatic,1,5,Maruti,Suzuki Alto K10 VXI AMT (O)
+6367930,13,36000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+4288940,11,45000,petrol,manual,2,5,Volkswagen,Polo Comfortline 1.2L (P)
+3797840,13,69000,petrol,manual,2,5,Ford,Figo Duratec Petrol EXI 1.2
+6024160,12,38000,petrol,manual,2,5,Maruti,Suzuki Swift LXI
+4059760,13,65000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+9789260,10,43000,diesel,manual,1,5,Honda,City V Diesel
+6515260,8,26000,petrol,manual,3,5,Honda,Amaze 1.2L SX
+6515260,12,60000,petrol,manual,1,5,Hyundai,i20 Sportz 1.2
+7612050,3,30000,petrol,manual,1,5,Renault,Kwid 1.0 RXT Opt
+9298160,5,22000,petrol,automatic,1,5,Maruti,Suzuki Celerio X ZXI (O) AMT
+6449780,10,53000,petrol,automatic,1,5,Maruti,Suzuki Celerio VXI AMT
+8152260,7,34000,petrol,manual,1,5,Tata,Tiago XZ CNG (Outside Fitted)
+7301020,9,18000,petrol,manual,2,5,Honda,Amaze 1.2L SX
+8152260,11,71000,diesel,manual,1,5,Ford,EcoSport Trend 1.5L TDCi
+9494600,9,68000,petrol,manual,1,5,Ford,EcoSport Titanium 1.0L Eco Boost
+7317390,5,16000,petrol,automatic,2,5,Renault,Kwid 1.0 RXT AMT Opt
+8004930,9,49000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+8446920,11,13000,petrol,manual,1,5,Maruti,Suzuki Swift Dzire ZXI
+5385730,10,45000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+6744440,12,35000,petrol,manual,1,5,Maruti,Suzuki Swift Dzire VXI 1.2
+5483950,6,47000,petrol,manual,1,5,Datsun,GO T
+6678960,7,25000,petrol,automatic,1,5,Renault,Kwid 1.0 RXT AMT Opt
+7153690,12,64000,petrol,manual,2,5,Hyundai,Verna Fluidic 1.6 VTVT SX
+4452640,13,24000,petrol,manual,2,5,Hyundai,i10 Era Petrol
+6515260,11,71000,petrol,automatic,2,5,Hyundai,i10 Era Petrol
+4861890,11,48000,petrol,manual,2,5,Maruti,Suzuki A-Star VXI
+6253340,10,38000,petrol,manual,2,5,Honda,Amaze 1.2L EX
+6024160,10,38000,petrol,manual,2,5,Tata,Zest XM Petrol
+5794980,4,6000,petrol,manual,1,5,Maruti,Suzuki Alto 800 LXI
+7481090,5,25000,petrol,automatic,1,5,Renault,Kwid 1.0L RXT(O) AMT
+3208520,10,15000,petrol,manual,1,4,Tata,Nano Twist XT Petrol
+8381440,8,41000,petrol,automatic,2,5,Volkswagen,Polo Comfortline 1.2L (P)
+7824860,5,47000,petrol,manual,1,5,Volkswagen,Polo Comfortline 1.2L (P)
+7972190,8,69000,petrol,manual,1,5,Volkswagen,Ameo Comfortline 1.2L (P)
+8659730,7,35000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+9789260,9,47000,petrol,manual,1,5,Volkswagen,Polo Highline1.2L (P)
+9412750,9,67000,petrol,automatic,2,5,Ford,EcoSport Titanium 1.5L Ti-VCT AT
+8152260,6,36000,petrol,automatic,1,5,Nissan,Micra XL CVT
+9412750,5,22000,petrol,automatic,1,5,Maruti,Suzuki Celerio ZXI (O) AMT
+3143040,8,35000,petrol,manual,3,4,Tata,Nano Twist XT Petrol
+6367930,8,55000,petrol,manual,2,6,Mahindra,KUV100 K6 6 STR
+4665450,12,54000,petrol,manual,2,5,Maruti,Suzuki Estilo VXI
+4452640,8,45000,petrol,manual,2,5,Datsun,Go Plus T
+8168630,9,28000,petrol,manual,1,5,Tata,Zest XT Petrol
+6744440,8,37000,petrol,manual,3,5,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT
+6367930,12,28000,petrol,manual,1,5,Maruti,Suzuki Swift Dzire VXI
+7022730,11,8000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+4894630,10,49000,petrol,manual,2,5,Maruti,Suzuki Wagon R 1.0 VXI
+9461860,7,46000,petrol,manual,2,5,Volkswagen,Polo Comfortline 1.2L (P)
+7513830,9,33000,petrol,manual,1,5,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT
+6089640,7,47000,petrol,manual,1,5,Maruti,Suzuki Alto K10 VXI
+9658300,9,63000,petrol,manual,1,5,Hyundai,Elite i20 Asta 1.2
+9150830,2,32000,petrol,manual,1,5,Nissan,Magnite XE
+8987130,11,60000,petrol,manual,1,7,Maruti,Suzuki Ertiga VXI
+9298160,8,44000,petrol,automatic,1,5,Maruti,Suzuki Swift Dzire VXI AT
+5402100,11,43000,petrol,manual,1,5,Hyundai,i10 Sportz 1.2 Petrol
+4550860,12,64000,petrol,manual,1,5,Hyundai,i10 Era Petrol
+9641930,8,64000,petrol,manual,1,5,Maruti,Suzuki Baleno Alpha Petrol
+2815640,10,75000,petrol,manual,1,4,Tata,Nano Twist XT Petrol
+7873970,5,17000,petrol,manual,1,7,Datsun,Go Plus T (O)
+3208520,10,15000,petrol,manual,1,4,Tata,Nano Twist XT Petrol
+8381440,8,41000,petrol,automatic,2,5,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT
+7824860,5,47000,petrol,manual,1,5,Maruti,Suzuki Celerio VXI (O)
+7972190,8,69000,petrol,manual,1,5,Volkswagen,Ameo Comfortline 1.2L (P)
+8659730,7,35000,petrol,manual,1,5,Maruti,Suzuki Swift VXI
+9789260,9,47000,petrol,manual,1,5,Volkswagen,Polo Highline1.2L (P)
+9412750,9,67000,petrol,automatic,2,5,Ford,EcoSport Titanium 1.5L Ti-VCT AT
+8152260,6,36000,petrol,automatic,1,5,Nissan,Micra XL CVT
+9412750,5,22000,petrol,automatic,1,5,Maruti,Suzuki Celerio ZXI (O) AMT
+8168630,9,28000,petrol,manual,1,5,Tata,Zest XT Petrol
+9461860,7,46000,petrol,manual,2,5,Volkswagen,Polo Comfortline 1.2L (P)
+7513830,9,33000,petrol,manual,1,5,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT
+10509540,5,74000,petrol,manual,1,5,Honda,Honda 
+13407030,5,25000,petrol,automatic,1,5,Hyundai,Hyundai
+12179280,4,26000,petrol,automatic,1,5,Hyundai,Hyundai
+11098860,6,30000,petrol,automatic,1,5,Hyundai,Hyundai
+15420540,6,44000,diesel,automatic,1,5,Renault,Renault
+13619840,3,14000,petrol,automatic,1,5,Tata,Tata
+11917360,4,34000,petrol,manual,1,5,Maruti,Maruti
+21690250,3,27000,petrol,manual,1,5,Hyundai,Hyundai
+13243330,2,59000,petrol,manual,1,5,Maruti,Maruti
+14160050,5,22000,petrol,manual,1,5,Tata,Tata
+25995560,2,12000,petrol,automatic,1,5,Volkswagen,Volkswagen
+19594890,3,21000,petrol,automatic,1,5,Hyundai,Hyundai
+11409890,4,65000,petrol,manual,1,5,Hyundai,Hyundai
+11655440,8,70000,diesel,manual,1,5,Maruti,Maruti
+15698830,8,41000,diesel,automatic,1,5,Hyundai,Hyundai
+48766230,5,58000,diesel,automatic,1,5,BMW,BMW
+23965680,4,15000,petrol,manual,1,5,Jeep,Jeep
+52072970,7,54000,diesel,automatic,1,7,Land,Land
+40499380,2,19000,petrol,automatic,2,5,Jeep,Jeep
+81833630,6,40000,diesel,automatic,1,5,Mercedes,Mercedes
+46294360,6,22000,diesel,automatic,1,5,BMW,BMW
+18661800,7,57000,petrol,automatic,1,5,Skoda,Skoda
+22901630,2,12000,petrol,manual,2,5,Skoda,Skoda
+10133030,4,63000,petrol,manual,1,7,Renault,Renault
+14683890,4,39000,petrol,manual,1,5,Maruti,Maruti
+19152900,2,12000,petrol,manual,1,5,Mahindra,Mahindra
+16222670,2,37000,petrol,manual,1,5,Maruti,Maruti
+12572160,2,14000,petrol,manual,1,5,Nissan,Nissan
+17057540,6,49000,petrol,automatic,1,5,Hyundai,Hyundai
+14651150,2,18000,diesel,manual,1,5,Mahindra,Mahindra
+10198510,9,38000,petrol,automatic,1,5,Maruti,Maruti
+11982840,3,51000,petrol,manual,2,5,Tata,Tata
+17057540,4,23000,petrol,manual,1,5,Hyundai,Hyundai
+24113010,3,48000,petrol,manual,1,5,Skoda,Skoda
+16337260,5,44000,diesel,manual,1,5,Mahindra,Mahindra
+15535130,2,23000,petrol,manual,1,5,Tata,Tata
+90526100,2,6000,petrol,automatic,2,5,Mercedes,Mercedes
+52907840,7,51000,diesel,automatic,1,5,Land,Rover
+16337260,4,38000,petrol,manual,1,5,Mahindra,Mahindra
+14372860,7,46000,petrol,automatic,1,5,Honda,Honda 
+16320890,4,38000,petrol,manual,1,5,Tata,Tata
+13014150,6,38000,petrol,automatic,1,5,Hyundai,Hyundai
+14389230,7,44000,diesel,manual,1,5,Maruti,Maruti
+25602680,2,49000,petrol,automatic,1,5,Volkswagen,Volkswagen
+12244760,4,22000,petrol,automatic,1,5,Maruti,Maruti
+20151470,2,21000,petrol,manual,1,6,Maruti,Maruti
+12424830,4,16000,petrol,manual,1,5,Hyundai,Hyundai
+14323750,6,68000,diesel,manual,1,6,Hyundai,Hyundai
+14602040,2,16000,petrol,manual,1,5,Maruti,Maruti
+17499530,3,29000,petrol,manual,1,6,Tata,Tata
+11017010,2,7000,petrol,automatic,1,5,Maruti,Maruti
+17057540,4,26000,petrol,automatic,1,5,Maruti,Maruti
+19594890,4,37000,petrol,manual,1,5,Hyundai,Hyundai
+17581380,3,37000,petrol,automatic,1,5,Maruti,Maruti
+17057540,4,42000,diesel,manual,1,5,Tata,Tata
+10345840,6,59000,petrol,automatic,1,5,Honda,Honda 
+15371430,8,63000,diesel,manual,2,7,Mahindra,Mahindra
+40499380,7,58000,diesel,automatic,2,5,Mercedes,Mercedes
+15960750,3,23000,petrol,manual,1,5,Maruti,Maruti
+10509540,2,25000,petrol,manual,1,5,Maruti,Maruti
+10493170,6,52000,petrol,automatic,1,5,Maruti,Maruti
+17941520,2,50000,petrol,manual,1,5,Tata,Tata
+39271630,1,13000,diesel,automatic,1,4,Mahindra,Mahindra
+12424830,4,41000,petrol,manual,1,5,Hyundai,Hyundai
+18923720,2,34000,diesel,manual,1,7,Mahindra,Mahindra
+10460430,6,62000,petrol,manual,1,5,Hyundai,Hyundai
+13063260,5,34000,petrol,automatic,1,5,Maruti,Maruti
+13014150,5,52000,petrol,automatic,1,5,Maruti,Maruti
+13668950,2,15000,petrol,manual,1,5,Hyundai,Hyundai
+11426260,7,45000,petrol,automatic,1,5,Maruti,Maruti
+15142250,3,34000,petrol,automatic,1,5,Tata,Tata
+11377150,3,26000,petrol,manual,1,4,Nissan,Nissan
+11377150,3,44000,petrol,automatic,1,7,Renault,Renault
+15191360,5,21000,petrol,manual,1,5,Ford,Ford
+13979980,4,46000,petrol,manual,1,5,Renault,Renault
+18383510,5,40000,petrol,automatic,1,5,Hyundai,Hyundai
+16189930,3,20000,petrol,manual,2,5,Tata,Tata
+12097430,6,33000,petrol,manual,1,5,Hyundai,Hyundai
+11197080,1,19000,petrol,manual,1,5,Tata,Tata
+19447560,8,69000,diesel,automatic,1,7,Mahindra,Mahindra
+11704550,4,10000,petrol,automatic,1,7,Renault,Renault
+9969330,7,48000,petrol,manual,1,5,Hyundai,Hyundai
+12424830,4,68000,petrol,automatic,1,5,Maruti,Maruti
+12965040,3,19000,petrol,manual,1,5,Tata,Tata
+10067550,1,3000,petrol,automatic,1,5,Renault,Renault
+26764950,2,51000,diesel,manual,1,7,Mahindra,Mahindra
+12965040,3,19000,petrol,manual,1,5,Tata,Tata
+10067550,1,3000,petrol,automatic,1,5,Renault,Renault
+26764950,2,51000,diesel,manual,1,7,Mahindra,Mahindra
+10935160,2,16000,petrol,manual,1,5,Maruti,Maruti
+12915930,3,22000,petrol,automatic,1,5,Maruti,Maruti
+16320890,6,42000,diesel,automatic,1,5,Maruti,Maruti
+13979980,2,12000,petrol,automatic,1,5,Renault,Renault
+13783540,7,73000,diesel,automatic,1,5,Renault,Renault
+19594890,4,34000,petrol,manual,1,5,Honda,Honda 
+11770030,2,39000,petrol,automatic,1,7,Renault,Renault
+10460430,2,13000,petrol,automatic,1,5,Maruti,Maruti
+12326610,2,13000,petrol,manual,1,5,Hyundai,Hyundai
+16320890,8,40000,diesel,manual,1,7,Mahindra,Mahindra
+18498100,7,71000,diesel,automatic,1,7,Mahindra,Mahindra
+16239040,3,72000,petrol,manual,1,5,Hyundai,Hyundai
+15846160,2,7000,petrol,manual,1,5,Nissan,Nissan
+11655440,4,12000,petrol,automatic,1,7,Renault,Renault
+17826930,3,22000,petrol,manual,1,5,Tata,Tata
+43134950,1,11000,petrol,automatic,1,7,Mahindra,Mahindra
+12244760,7,73000,diesel,automatic,1,5,Maruti,Maruti
+13898130,2,24000,petrol,automatic,1,5,Renault,Renault
+13292440,3,21000,petrol,automatic,1,5,Tata,Tata
+19152900,2,49000,diesel,manual,1,5,Hyundai,Hyundai
+24751440,2,21000,diesel,manual,1,5,Honda,Honda 
+17335830,2,15000,petrol,manual,1,5,Tata,Tata
+17941520,3,29000,petrol,manual,1,5,Mahindra,Mahindra
+14372860,6,31000,petrol,automatic,1,5,Maruti,Maruti
+13505250,3,21000,petrol,manual,1,5,Maruti,Maruti
+13014150,3,22000,petrol,automatic,1,5,Renault,Renault
+11737290,7,37000,petrol,manual,1,5,Maruti,Maruti
+17499530,2,28000,petrol,manual,1,5,Hyundai,Hyundai
+15338690,2,16000,petrol,manual,1,5,Hyundai,Hyundai
+10624130,6,36000,petrol,automatic,1,5,Renault,Renault
+13014150,4,45000,petrol,manual,3,5,Ford,Ford
+17204870,9,74000,diesel,automatic,2,7,Mahindra,Mahindra
+10509540,7,40000,petrol,automatic,2,5,Maruti,Maruti
+14029090,6,67000,diesel,automatic,1,5,Maruti,Maruti
+10836940,7,60000,petrol,automatic,1,5,Maruti,Maruti
+26764950,2,8000,petrol,manual,2,5,Mahindra,Mahindra
+14209160,3,24000,petrol,manual,1,5,Nissan,Nissan
+10263990,8,47000,petrol,manual,1,5,Hyundai,Hyundai
+14225530,4,28000,petrol,manual,1,5,Maruti,Maruti
+12261130,3,34000,petrol,manual,1,5,Tata,Tata
+19480300,2,20000,petrol,manual,1,5,Maruti,Maruti
+16320890,4,23000,petrol,automatic,1,5,Hyundai,Hyundai
+10935160,3,29000,petrol,manual,1,5,Maruti,Maruti
+10705980,6,52000,petrol,automatic,1,5,Maruti,Maruti
+12915930,3,53000,petrol,automatic,2,5,Maruti,Maruti
+12637640,3,42000,petrol,manual,1,5,Maruti,Maruti
+17499530,2,11000,petrol,manual,1,5,Hyundai,Hyundai
+11393520,6,62000,petrol,automatic,1,5,Maruti,Maruti
+21068190,5,73000,diesel,automatic,2,7,Mahindra,Mahindra
+17335830,8,67000,diesel,automatic,1,7,Mahindra,Mahindra
+10378580,8,27000,petrol,manual,1,5,Hyundai,Hyundai
+10051180,6,39000,petrol,manual,2,5,Maruti,Maruti
+19480300,2,35000,petrol,manual,1,5,Skoda,Skoda
+13898130,2,8000,petrol,manual,1,5,Hyundai,Hyundai
+17172130,2,18000,petrol,automatic,1,5,Renault,Renault
+13570730,2,31000,petrol,automatic,1,5,Maruti,Maruti
+10755090,4,25000,petrol,automatic,1,7,Renault,Renault
+15535130,6,60000,petrol,manual,1,5,Hyundai,Hyundai
+18727280,11,14000,petrol,manual,1,5,Hyundai,Hyundai
+10051180,4,12000,petrol,automatic,1,7,Renault,Renault
+14716630,3,74000,petrol,automatic,1,5,Hyundai,Hyundai
+14323750,6,65000,diesel,manual,1,5,Maruti,Maruti
+13767170,5,71000,diesel,automatic,1,5,Tata,Tata
+15535130,4,29000,petrol,manual,1,5,Hyundai,Hyundai
+15960750,6,36000,petrol,manual,1,5,Hyundai,Hyundai
+37634630,4,21000,diesel,automatic,1,4,Toyota,Toyota
+15125880,3,34000,petrol,manual,1,5,Hyundai,Hyundai
+16009860,6,48000,petrol,manual,1,5,Hyundai,Hyundai
+14651150,6,36000,diesel,automatic,1,5,Maruti,Maruti
+13619840,5,60000,diesel,manual,1,5,Maruti,Maruti
+11982840,3,24000,petrol,manual,1,5,Hyundai,Hyundai
+13554360,3,23000,petrol,automatic,1,5,Renault,Renault
+12359350,3,21000,petrol,automatic,1,5,Maruti,Maruti
+13979980,8,51000,petrol,manual,1,5,Hyundai,Hyundai
+14323750,2,14000,petrol,manual,1,4,Nissan,Nissan
+11770030,4,16000,petrol,automatic,1,7,Renault,Renault
+15044030,4,43000,diesel,manual,1,5,Honda,Honda 
+14274640,5,46000,petrol,manual,1,5,Ford,Ford
+10296730,8,48000,petrol,manual,1,5,Hyundai,Hyundai
+15764310,2,24000,petrol,automatic,1,5,Renault,Renault
+33542130,2,23000,diesel,manual,1,5,Mahindra,Mahindra
+12735860,2,9000,petrol,automatic,1,5,Maruti,Maruti
+13374290,3,35000,petrol,automatic,1,5,Honda,Honda 
+16288150,4,50000,petrol,manual,1,5,Hyundai,Hyundai
+13865390,5,40000,diesel,manual,1,5,Maruti,Maruti
+16304520,6,53000,petrol,manual,1,5,Honda,Honda 
+10198510,8,60000,petrol,manual,1,5,Hyundai,Hyundai
+12932300,1,8000,petrol,manual,1,5,Renault,Renault
+12261130,3,63000,diesel,manual,1,5,Tata,Tata
+14765740,3,42000,petrol,manual,1,5,Maruti,Maruti
+13505250,4,38000,petrol,automatic,1,5,Maruti,Maruti
+14651150,7,34000,petrol,automatic,1,5,Hyundai,Hyundai
+10329470,8,43000,petrol,manual,1,5,Hyundai,Hyundai
+19856810,2,23000,diesel,manual,1,5,Mahindra,Mahindra
+11409890,4,31000,petrol,automatic,1,5,Maruti,Maruti
+16320890,3,9000,petrol,manual,1,5,Hyundai,Hyundai
+19463930,3,56000,diesel,manual,1,5,Mahindra,Mahindra
+17483160,2,19000,petrol,manual,1,5,Maruti,Maruti
+16320890,1,18000,petrol,manual,1,5,Hyundai,Hyundai
+18972830,3,56000,diesel,manual,1,5,Mahindra,Mahindra
+17483160,2,19000,petrol,manual,1,5,Maruti,Maruti
+16320890,1,18000,petrol,manual,1,5,Hyundai,Hyundai
+11508110,6,6800,petrol,automatic,1,5,Maruti,Maruti
+22639710,3,60000,petrol,manual,1,5,Skoda,Skoda
+14978550,2,1800,petrol,automatic,1,5,Honda,Honda 
+17008430,3,72000,diesel,automatic,1,5,Tata,Tata
+13898130,5,33000,petrol,manual,1,5,Volkswagen,Volkswagen
+10673240,6,31000,petrol,manual,1,5,Maruti,Maruti
+15567870,6,43000,petrol,manual,1,5,Honda,Honda 
+14602040,6,51000,petrol,manual,1,5,Hyundai,Hyundai
+17401310,1,60000,petrol,automatic,1,5,Renault,Renault
+14225530,5,57000,petrol,manual,1,5,Hyundai,Hyundai
+10705980,9,73000,diesel,manual,2,5,Honda,Honda 
+20315170,1,16000,petrol,manual,1,5,Mahindra,Mahindra
+14323750,4,47000,diesel,automatic,1,5,Honda,Honda 
+25357130,5,68000,diesel,automatic,1,7,Mahindra,Mahindra
+18743650,2,21000,petrol,manual,1,5,Mahindra,Mahindra
+10689610,6,17000,petrol,manual,1,5,Hyundai,Hyundai
+17090280,3,42000,petrol,manual,1,5,Hyundai,Hyundai
+13161480,6,75000,diesel,manual,1,5,Ford,Ford
+15518760,2,11000,petrol,automatic,2,5,Honda,Honda 
+11262560,6,37000,petrol,automatic,1,5,Maruti,Maruti
+10787830,5,19000,petrol,automatic,1,5,Tata,Tata
+15207730,5,25000,petrol,automatic,1,5,Tata,Tata
+26093780,2,20000,petrol,automatic,1,5,Volkswagen,Volkswagen
+19480300,3,27000,petrol,manual,1,5,Skoda,Skoda
+14225530,5,63000,diesel,automatic,1,5,Mahindra,Mahindra
+24440410,0,2000,petrol,automatic,1,5,Hyundai,Hyundai
+14209160,2,16000,petrol,automatic,1,5,Renault,Renault
+27092350,2,13000,diesel,manual,1,7,Tata,Tata
+19251120,7,67000,diesel,automatic,1,7,Mahindra,Mahindra
+13341550,7,53000,petrol,manual,1,7,Honda,Honda 
+13014150,3,39000,petrol,manual,1,5,Renault,Renault
+14651150,3,12000,petrol,automatic,2,5,Honda,Honda 
+12915930,7,28000,diesel,manual,1,5,Renault,Renault
+19594890,5,39000,diesel,manual,2,7,Mahindra,Mahindra
+12261130,4,23000,petrol,automatic,1,5,Maruti,Maruti
+12261130,3,32000,petrol,manual,1,5,Nissan,Nissan
+15453280,2,25000,petrol,automatic,1,5,Renault,Renault
+11278930,1,11000,petrol,manual,1,5,Maruti,Maruti
+25258910,5,33000,diesel,manual,1,5,Tata,Tata
+14683890,3,29000,petrol,manual,1,5,Hyundai,Hyundai
+18579950,4,34000,diesel,automatic,1,5,Mahindra,Mahindra
+25815490,2,25000,petrol,automatic,1,5,Volkswagen,Volkswagen
+12948670,7,37000,petrol,manual,1,7,Honda,Honda 
+15616980,1,11000,petrol,automatic,1,5,Honda,Honda 
+16320890,4,71000,diesel,manual,1,5,Tata,Tata
+11197080,3,27000,petrol,manual,1,7,Renault,Renault
+23572800,2,24000,petrol,manual,1,5,Maruti,Maruti
+15027660,6,47000,diesel,automatic,1,5,Maruti,Maruti
+14061830,6,66000,diesel,automatic,1,5,Renault,Renault
+17057540,2,25000,petrol,automatic,1,5,Hyundai,Hyundai
+17548640,4,54000,diesel,manual,2,5,Tata,Tata
+15535130,2,24000,petrol,manual,1,5,Hyundai,Hyundai
+15633350,8,72000,petrol,automatic,1,5,Hyundai,Creta 1.6 SX Plus Auto Petrol
+40483010,2,33000,petrol,automatic,1,7,Toyota,Innova Crysta 2.7 ZX AT 7 STR
+12932300,3,20000,petrol,manual,1,5,Tata,Altroz XZ 1.2
+12473940,2,19000,petrol,manual,1,5,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT CNG
+17417680,4,39000,petrol,automatic,1,5,Ford,EcoSport Titanium + 1.5L Ti-VCT AT
+35702970,4,31000,diesel,automatic,1,7,Toyota,Innova Crysta 2.4 GX AT 7 STR
+35260980,3,15000,diesel,automatic,1,6,Tata,Safari XZA Plus 6S
+14683890,7,33000,petrol,automatic,1,5,Honda,Honda 
+14029090,4,27000,petrol,manual,2,5,Ford,Ford
+15420540,3,33000,petrol,manual,1,5,Renault,Renault
+16108080,3,33000,petrol,manual,1,5,Maruti,Maruti
+15584240,9,71000,diesel,manual,1,5,Hyundai,Hyundai
+11655440,7,35000,petrol,manual,1,5,Hyundai,Hyundai
+16615550,8,55000,petrol,automatic,1,5,Hyundai,Hyundai
+26748580,3,25000,diesel,automatic,1,4,Mahindra,Mahindra
+19120160,6,49000,diesel,manual,1,5,Honda,Honda 
+15207730,6,57000,diesel,automatic,1,5,Renault,Renault
+13014150,9,69000,diesel,manual,1,7,Mahindra,Mahindra
+16337260,4,35000,petrol,manual,3,5,Hyundai,Hyundai
+15584240,9,71000,diesel,manual,1,5,Hyundai,Hyundai
+10705980,6,52000,petrol,automatic,1,5,Maruti,Maruti
+11262560,6,37000,petrol,automatic,2,5,Maruti,Maruti
+10935160,6,52000,petrol,manual,1,5,Hyundai,Hyundai
+12752230,2,3000,petrol,manual,1,5,Tata,Tata
+15191360,5,21000,petrol,manual,1,5,Ford,Ford
+18301660,6,68000,diesel,automatic,1,7,Mahindra,Mahindra
+11197080,3,27000,petrol,manual,1,7,Renault,Renault
+19152900,2,12000,petrol,manual,1,5,Mahindra,Mahindra
+11393520,5,21000,petrol,manual,1,5,Maruti,Maruti
+22901630,2,12000,petrol,manual,1,5,Skoda,Skoda
+10493170,6,52000,petrol,automatic,1,5,Maruti,Maruti
+19267490,2,7000,petrol,automatic,1,5,Maruti,Maruti
+16320890,4,38000,petrol,manual,1,5,Tata,Tata
+12817710,8,57000,diesel,automatic,1,5,Renault,Renault
+17941520,3,14000,petrol,automatic,2,5,Hyundai,Hyundai
+15142250,5,45000,diesel,manual,1,5,Hyundai,Hyundai
+28647500,2,22000,petrol,automatic,1,5,Skoda,Skoda
+11409890,4,65000,petrol,manual,1,5,Hyundai,Hyundai
+21690250,3,27000,petrol,manual,1,5,Hyundai,Hyundai
+11393520,6,62000,petrol,automatic,1,5,Maruti,Maruti
+16288150,4,40000,petrol,automatic,2,5,Hyundai,Hyundai
+11917360,4,34000,petrol,manual,2,5,Maruti,Maruti
+15420540,6,44000,diesel,automatic,1,5,Renault,Renault
+16320890,10,71000,diesel,automatic,1,5,Skoda,Skoda
+11098860,6,30000,petrol,automatic,2,5,Hyundai,Hyundai
+12179280,4,26000,petrol,automatic,1,5,Hyundai,Hyundai
+29040380,10,39000,diesel,automatic,1,5,Audi,Audi
+37192640,9,45000,diesel,automatic,1,5,BMW,BMW
+12113800,3,7000,petrol,manual,2,5,Hyundai,Hyundai
+13537990,6,59000,diesel,manual,1,5,Renault,Renault
+11098860,7,59000,petrol,manual,1,5,Hyundai,Hyundai
+10427690,6,15000,petrol,automatic,1,5,Hyundai,Hyundai
+10296730,7,56000,petrol,automatic,1,5,Honda,Honda 
+16320890,3,10000,petrol,manual,1,5,Hyundai,Hyundai
+13570730,3,23000,petrol,manual,2,5,Hyundai,Hyundai
+11049750,7,54000,diesel,manual,1,5,Maruti,Maruti
+10755090,7,31000,petrol,manual,1,5,Hyundai,Hyundai
+14209160,1,14000,petrol,manual,2,5,Maruti,Maruti
+23965680,6,30000,petrol,automatic,1,5,Jeep,Jeep
+13734430,2,15000,petrol,automatic,2,5,Hyundai,Hyundai
+13979980,2,8000,petrol,manual,1,5,Tata,Tata
+10542280,8,41000,diesel,manual,1,7,Mahindra,Mahindra
+13619840,3,37000,petrol,automatic,2,5,Skoda,Skoda
+10624130,3,47000,petrol,manual,1,5,Honda,Honda 
+11933730,5,26000,petrol,manual,1,5,Hyundai,Hyundai
+15960750,2,16000,petrol,manual,1,5,Volkswagen,Volkswagen
+10787830,4,60000,petrol,manual,1,5,Maruti,Maruti
+10509540,6,48000,petrol,manual,2,5,Honda,Honda 
+26928650,4,23000,diesel,manual,1,7,Mahindra,Mahindra
+17499530,2,16000,petrol,automatic,1,5,Hyundai,Hyundai
+13537990,6,59000,diesel,manual,2,5,Renault,Renault
+12424830,8,50000,petrol,automatic,1,5,Maruti,Maruti
+21690250,3,32000,petrol,automatic,1,5,Volkswagen,Volkswagen
+12850450,6,58000,petrol,manual,1,5,Ford,Ford
+11770030,1,10000,petrol,manual,2,5,Maruti,Maruti
+17057540,1,10000,petrol,automatic,1,5,Toyota,Toyota
+10624130,9,71000,diesel,manual,1,5,Hyundai,Hyundai
+15846160,1,9000,petrol,manual,1,5,Hyundai,Hyundai
+12293870,6,28000,petrol,manual,1,5,Maruti,Maruti
+11213450,5,23000,petrol,automatic,1,5,Maruti,Maruti
+16320890,3,10000,petrol,manual,1,5,Hyundai,Hyundai
+18661800,8,57000,petrol,automatic,2,5,Skoda,Skoda
+15960750,0,7000,petrol,automatic,2,5,Tata,Tata
+16288150,8,75000,diesel,manual,1,7,Mahindra,Mahindra
+11328040,7,49000,petrol,automatic,1,5,Renault,Renault
+25995560,2,12000,petrol,automatic,1,5,Volkswagen,Volkswagen
+18416250,4,59000,petrol,manual,1,5,Honda,Honda 
+12261130,2,12000,petrol,automatic,1,5,Maruti,Maruti
+11426260,6,58000,petrol,manual,2,5,Maruti,Maruti
+17057540,4,26000,petrol,automatic,2,5,Maruti,Maruti
+10345840,5,47000,petrol,automatic,1,5,Maruti,Maruti
+11442630,8,50000,diesel,automatic,1,5,Hyundai,Hyundai
+11524480,3,28000,petrol,automatic,1,5,Renault,Renault
+20593460,2,23000,petrol,automatic,1,5,Mahindra,Mahindra
+19480300,6,28000,petrol,automatic,1,5,Hyundai,Hyundai
+13701690,4,17000,petrol,manual,1,5,Hyundai,Hyundai
+27092350,0,4000,petrol,automatic,1,5,Maruti,Maruti
+17057540,4,31000,petrol,automatic,1,5,Ford,Ford
+33263840,2,29000,diesel,automatic,1,7,Tata,Tata
+15207730,4,25000,petrol,manual,1,5,Tata,Tata
+9903850,5,25000,petrol,manual,1,5,Honda,Honda 
+12097430,3,15000,petrol,manual,1,5,Maruti,Maruti
+17826930,7,66000,petrol,manual,1,5,Hyundai,Hyundai
+10345840,5,15000,petrol,manual,3,5,Ford,Ford
+17188500,4,72000,diesel,automatic,1,5,Mahindra,Mahindra
+26928650,4,23000,diesel,manual,1,7,Mahindra,Mahindra
+11933730,8,56000,petrol,automatic,1,5,Honda,Honda 
+11868250,4,51000,petrol,automatic,2,5,Maruti,Maruti
+14618410,6,24000,petrol,automatic,1,5,Honda,Honda 
+10755090,7,31000,petrol,manual,2,5,Hyundai,Hyundai
+17057540,3,25000,petrol,manual,2,5,Mahindra,Mahindra
+24751440,2,21000,diesel,manual,2,5,Honda,Honda 
+16288150,5,52000,petrol,automatic,1,5,Ford,Ford
+18383510,5,40000,petrol,automatic,1,5,Hyundai,Hyundai
+13243330,2,59000,petrol,manual,2,5,Maruti,Maruti
+16189930,1,5000,petrol,automatic,1,5,Maruti,Maruti
+17941520,2,5000,petrol,manual,1,5,Tata,Tata
+10836940,10,43000,diesel,manual,1,5,Renault,Renault
+14372860,7,46000,petrol,automatic,1,5,Honda,Honda 
+24342190,3,15000,petrol,automatic,1,5,Volkswagen,Volkswagen
+10018440,8,46000,diesel,manual,1,5,Ford,Ford
+11655440,4,12000,petrol,automatic,2,7,Renault,Renault
+29744290,1,9000,diesel,manual,1,7,Mahindra,Mahindra
+11704550,4,10000,petrol,automatic,1,7,Renault,Renault
+13947240,7,64000,diesel,manual,1,7,Honda,Honda 
+10967900,1,19000,petrol,manual,2,5,Tata,Tata
+36210440,2,23000,diesel,automatic,1,5,Mahindra,Mahindra
+12915930,5,26000,petrol,manual,1,5,Ford,Ford
+34360630,5,42000,diesel,automatic,1,5,Volkswagen,Volkswagen
+15420540,2,9000,petrol,automatic,2,5,Honda,Honda 
+11917360,8,44000,diesel,manual,1,5,Hyundai,Hyundai
+11409890,8,71000,petrol,automatic,1,5,Volkswagen,Volkswagen
+18579950,3,9000,diesel,automatic,1,5,Mahindra,Mahindra
+18498100,2,9000,petrol,manual,1,5,Tata,Tata
+11098860,10,22000,petrol,manual,1,7,Maruti,Maruti
+10673240,6,31000,petrol,manual,1,5,Maruti,Maruti
+15076770,8,57000,petrol,manual,1,5,Hyundai,Hyundai
+11098860,10,22000,petrol,manual,1,7,Maruti,Maruti
+10673240,6,31000,petrol,manual,1,5,Maruti,Maruti
+15076770,8,57000,petrol,manual,1,5,Hyundai,Hyundai
+14651150,2,12000,petrol,manual,1,5,Maruti,Maruti
+18710910,2,8000,petrol,manual,1,5,Tata,Tata
+10787830,2,16000,petrol,manual,1,5,Maruti,Maruti
+11933730,3,22000,petrol,automatic,1,5,Renault,Renault
+14651150,9,64000,diesel,manual,1,7,Mahindra,Mahindra
+12572160,6,71000,diesel,manual,1,5,Ford,Ford
+10133030,6,59000,petrol,automatic,1,5,Maruti,Maruti
+13734430,2,28000,petrol,automatic,1,5,Maruti,Maruti
+14634780,5,75000,petrol,automatic,1,7,Maruti,Maruti
+10133030,9,75000,diesel,manual,2,5,Volkswagen,Volkswagen
+18825500,6,46000,petrol,automatic,1,5,Hyundai,Hyundai
+14814850,8,48000,petrol,manual,1,5,Hyundai,Hyundai
+13898130,4,37000,petrol,automatic,1,5,Nissan,Nissan
+17090280,3,7000,petrol,manual,1,5,Maruti,Maruti
+15747940,1,10000,petrol,manual,1,5,Maruti,Maruti
+34262410,3,25000,diesel,automatic,1,7,Tata,Tata
+17663230,4,28000,petrol,automatic,1,5,Mahindra,Mahindra
+18432620,1,11000,petrol,manual,1,5,Skoda,Skoda
+11000640,7,34000,petrol,manual,1,5,Volkswagen,Volkswagen
+17057540,2,25000,petrol,automatic,2,5,Hyundai,Hyundai
+15371430,3,6000,petrol,manual,2,5,Honda,Honda 
+15944380,4,27000,petrol,automatic,1,5,Hyundai,Hyundai
+23572800,2,24000,petrol,manual,2,5,Maruti,Maruti
+10787830,9,59000,diesel,manual,1,5,Volkswagen,Volkswagen
+11033380,4,30000,diesel,manual,1,5,Ford,Ford
+13079630,8,58000,petrol,manual,2,5,Hyundai,Hyundai
+10869680,8,54000,petrol,manual,1,5,Hyundai,Hyundai
+15960750,1,6000,petrol,automatic,1,5,Maruti,Maruti
+15813420,8,25000,petrol,manual,1,5,Hyundai,Hyundai
+35702970,4,31000,diesel,automatic,1,7,Toyota,Toyota
+11409890,6,62000,petrol,automatic,1,5,Hyundai,Hyundai
+13849020,3,32000,petrol,manual,1,5,Nissan,Nissan
+11197080,3,27000,petrol,manual,1,7,Renault,Renault
+15928010,3,29000,petrol,manual,1,5,Hyundai,Hyundai
+13276070,3,50000,diesel,manual,1,5,tata,tata
+10918790,6,67000,diesel,manual,1,5,Ford,Ford
+12915930,6,31000,petrol,automatic,1,5,Hyundai,Hyundai
+25488090,2,18000,diesel,manual,1,4,Mahindra,Mahindra
+27010500,7,64000,diesel,manual,1,7,Toyota,Toyota
+27501600,6,41000,diesel,manual,1,7,Toyota,Toyota
+15797050,6,49000,petrol,automatic,1,5,Hyundai,Hyundai
+13014150,3,30000,petrol,automatic,1,5,Nissan,Nissan
+11655440,4,12000,petrol,automatic,1,7,Renault,Renault
+29744290,1,9000,diesel,manual,1,7,Mahindra,Mahindra
+11704550,4,10000,petrol,automatic,1,7,Renault,Renault
+10967900,1,19000,petrol,manual,1,5,tata,tata
+36210440,2,23000,diesel,automatic,1,4,Mahindra,Mahindra
+34360630,5,42000,diesel,automatic,1,5,Volkswagen,Volkswagen
+15420540,2,9000,petrol,automatic,2,5,Honda,Honda 
+11917360,8,44000,diesel,manual,1,5,Hyundai,Hyundai
+11409890,8,71000,petrol,automatic,1,5,Volkswagen,Volkswagen
+21853950,3,9000,diesel,automatic,1,5,Mahindra,Mahindra
+18498100,2,9000,petrol,manual,1,5,tata,tata
+10673240,6,31000,petrol,manual,1,5,Maruti,Maruti
+15076770,8,57000,petrol,manual,1,5,Hyundai,Hyundai
